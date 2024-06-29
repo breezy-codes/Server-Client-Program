@@ -16,7 +16,7 @@ our_animals = {
 
 # Server IP and Port Number
 server_ip = "127.0.0.1"
-server_port = 53
+server_port = 5365
 
 # Socket set up for communications
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
